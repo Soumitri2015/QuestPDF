@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "hEfYdayO8b6GAWNp2ciNxC4l+ofZqebhxBgt+yYckiiDgXY7KkO9LzqGG348yL+RmEz3d4NAbtyQJ6cDysFogg==",
+  "dgSpecHash": "8pOu8Xo++k3tcX7KG6EtS7+50w3MGTeL2oEmRwBHFSkdHU9j1CQVC5tqyqAib0sZIy5Ryp+zB3uPk7qiHZr08A==",
   "success": true,
   "projectFilePath": "C:\\Users\\PC 2\\source\\repos\\QuestPDF\\CreatePdf\\CreatePdf.csproj",
   "expectedPackageFiles": [
@@ -11,7 +11,11 @@
     "C:\\Users\\PC 2\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
     "C:\\Users\\PC 2\\.nuget\\packages\\skiasharp.harfbuzz\\2.88.6\\skiasharp.harfbuzz.2.88.6.nupkg.sha512",
     "C:\\Users\\PC 2\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
-    "C:\\Users\\PC 2\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512"
+    "C:\\Users\\PC 2\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512",
+    "C:\\Users\\PC 2\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\PC 2\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\PC 2\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\PC 2\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.2\\microsoft.netcore.app.host.win-x64.7.0.2.nupkg.sha512"
   ],
   "logs": []
 }
