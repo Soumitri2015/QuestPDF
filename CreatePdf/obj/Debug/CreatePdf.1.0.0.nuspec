@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CreatePdf</id>
+    <version>1.0.0</version>
+    <authors>CreatePdf</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="QuestPDF" version="2023.12.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\PC 2\source\repos\CreatePdf\bin\Debug\netcoreapp3.1\CreatePdf.runtimeconfig.json" target="lib\netcoreapp3.1\CreatePdf.runtimeconfig.json" />
+    <file src="C:\Users\PC 2\source\repos\CreatePdf\bin\Debug\netcoreapp3.1\CreatePdf.dll" target="lib\netcoreapp3.1\CreatePdf.dll" />
+  </files>
+</package>
