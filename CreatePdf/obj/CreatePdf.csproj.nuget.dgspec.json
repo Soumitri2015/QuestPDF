@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC 2\\source\\repos\\CreatePdf\\CreatePdf.csproj": {}
+    "C:\\Users\\PC 2\\source\\repos\\QuestPDF\\CreatePdf\\CreatePdf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC 2\\source\\repos\\CreatePdf\\CreatePdf.csproj": {
+    "C:\\Users\\PC 2\\source\\repos\\QuestPDF\\CreatePdf\\CreatePdf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC 2\\source\\repos\\CreatePdf\\CreatePdf.csproj",
+        "projectUniqueName": "C:\\Users\\PC 2\\source\\repos\\QuestPDF\\CreatePdf\\CreatePdf.csproj",
         "projectName": "CreatePdf",
-        "projectPath": "C:\\Users\\PC 2\\source\\repos\\CreatePdf\\CreatePdf.csproj",
+        "projectPath": "C:\\Users\\PC 2\\source\\repos\\QuestPDF\\CreatePdf\\CreatePdf.csproj",
         "packagesPath": "C:\\Users\\PC 2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC 2\\source\\repos\\CreatePdf\\obj\\",
+        "outputPath": "C:\\Users\\PC 2\\source\\repos\\QuestPDF\\CreatePdf\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC 2\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,8 +51,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -61,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.2.23157.25\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }
